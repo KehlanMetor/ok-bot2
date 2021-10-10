@@ -1,0 +1,12 @@
+{
+    "Name": "Zeutilities",
+    "token": "process.env.TOKEN",
+    "prefix": "?",
+    "mongoDB": "mongodb+srv://KehlanMetor:skinnyfdp1@bot-discord.zbg8s.mongodb.net/zeutilities",
+    "trackergg": "",
+    "color": "#7122E3",
+    "footer": "https://discord.gg/js7gmb8Gbw ❤️",
+    "adminRole": "Createurs",
+    "ownerid": "684444122609614865",
+    "bugchannelid":"894903256038408212"
+}
